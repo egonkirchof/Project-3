@@ -1,0 +1,5 @@
+https://s3.amazonaws.com/metro-extracts.mapzen.com/barcelona_spain.osm.bz2
+
+This is Barcelona province area, containing the city of Barcelona and surroundings.
+
+I've chosen this map because I live in Barcelona.
