@@ -12,3 +12,6 @@ http://stackoverflow.com/questions/2177504/individually-labeled-bars-for-bar-gra
 http://effbot.org/zone/element-iterparse.htm#incremental-parsing
 https://docs.mongodb.org/getting-started/shell/
 http://api.mongodb.org/python/current/tutorial.html
+https://www.yelp.com/developers/api_console
+https://www.yelp.com/developers/documentation/v2/overview
+https://www.correos.es/ss/Satellite/site/pagina-buscador_codigos_postales/sidioma=es_ES?idiomaWeb=en_GB
